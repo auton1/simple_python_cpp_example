@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// Functions called from Python need to be declared as 'extern'
 extern "C"
 {
 	// The 'say_hello' function that is called from within Python3
