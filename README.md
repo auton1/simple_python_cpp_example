@@ -3,6 +3,7 @@ A super simple example of calling C++ from Python3.
 
 # Build
 
+From the command line, type:
 ```python3.4 setup.py build_ext --inplace```
 
 # Usage
